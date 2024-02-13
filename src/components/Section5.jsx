@@ -4,7 +4,7 @@ import img2 from "../assets/img2.png"
 const Section5 = () => {
     return (
         <>
-            <div className='bg-black text-white   flex justify-center items-center px-5 md:flex-row flex-col-reverse py-14 gap-10'>
+            <div className='bg-black text-white   flex justify-center items-center px-5 lg:flex-row flex-col-reverse py-14 gap-10'>
                 <div className="left">
                     <img className=' ' src={img2} alt="" />
 
